@@ -1,0 +1,20 @@
+Original,Renamed,Importance
+Card_Category,Card Type,0.001988048
+Marital_Status,Marital Status,0.008492815
+Gender,Gender,0.010269691
+Income_Category,Income Category,0.011066595
+Education_Level,Education Level,0.01185804
+Dependent_count,Number of Dependents,0.011994327
+Months_Inactive_12_mon,Months Inactive,0.023908122
+Months_on_book,Months with Bank,0.02466062
+Contacts_Count_12_mon,Contact Count,0.025352445
+Avg_Open_To_Buy,Average Open Credit,0.031303618
+Credit_Limit,Credit Limit,0.031887215
+Customer_Age,Age,0.034859029
+Total_Amt_Chng_Q4_Q1,Change in Amount Q4 to Q1,0.059580109
+Total_Relationship_Count,Number of Products,0.061210628
+Avg_Utilization_Ratio,Credit Utilization Ratio,0.065657876
+Total_Revolving_Bal,Revolving Balance,0.105473881
+Total_Ct_Chng_Q4_Q1,Change in Transaction Count Q4 to Q1,0.108573588
+Total_Trans_Ct,Total Transaction Count,0.171917576
+Total_Trans_Amt,Total Transaction Amount,0.199945777
